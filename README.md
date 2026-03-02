@@ -9,10 +9,8 @@ Tired of AI generating boring, soft, corporate UIs with pastel gradients and sub
 Install this skill globally using the [Skills CLI](https://skills.sh/):
 
 ```bash
-npx skills add neobrutalism-components-skill
+npx skills add ChindanaiNaKub/neobrutalism-components-skill
 ```
-
-*(Note: Replace with `npx skills add <your-github-username>/neobrutalism-components-skill` once published)*
 
 ## 🧠 What this Skill does
 
