@@ -25,6 +25,10 @@ When this skill is active, your AI will automatically:
 - A React or Next.js project
 - Tailwind CSS v4
 
+## 📚 Resources
+
+- [Neobrutalism.dev](https://www.neobrutalism.dev/) - Official component library
+
 ## 💡 Example Prompts
 
 Once installed, try asking your AI:
