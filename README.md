@@ -34,5 +34,11 @@ Once installed, try asking your AI:
 
 The AI will automatically read the skill, install the necessary `neobrutalism.dev` components, and compose them using strict Neobrutalist design rules.
 
+### Example Output
+
+**Prompt:** *"Build a dashboard layout with a sidebar and a bar chart. using neobrutalism skills"*
+
+![Neobrutalism Dashboard Example](./assets/dashboard.png)
+
 ---
 *Built for the open agent skills ecosystem.*
