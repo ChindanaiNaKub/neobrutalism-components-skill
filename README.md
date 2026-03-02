@@ -42,7 +42,7 @@ The AI will automatically read the skill, install the necessary `neobrutalism.de
 
 ### Demo
 
-[Watch the dashboard demo](./assets/neodash_demo.mp4)
+![Neobrutalism Dashboard Demo](./assets/neodash_demo.gif)
 
 ---
 *Built for the open agent skills ecosystem.*
